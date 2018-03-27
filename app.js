@@ -43,7 +43,7 @@ function createArticle(article) {
       <a href="${article.url}">
         <h2>${article.title}</h2>
         <img src="${article.urlToImage}" alt="${article.title}">
-        <p>${article.description}</p>
+        <h5>${article.description}</h5>
       </a>
     </div>
   `;
