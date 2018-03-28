@@ -1,3 +1,13 @@
+select{
+ 
+  color: #000000;
+  background-color: #ffffff; 
+}
+select option{
+  color: #000000;
+  background-color: #ffffff;
+}
+
 
 h2 {
     display: block;
