@@ -17,7 +17,7 @@ h2 {
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     font-weight: 300px;
-    color: white;
+    color: black;
 }
 h1 {
   text-transform: uppercase;
@@ -32,7 +32,7 @@ h5 {
     font-size: 18px;
     line-height: 110%;
     margin: 9px 0 7.2px 0;
-    color: white;
+    color: black;
 }
 
 
