@@ -39,6 +39,7 @@ h5 {
 main {
   display: grid;
   grid-gap: 30px;
+  background-color: #444444;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-auto-rows: max-content;
   grid-auto-flow: row dense;
